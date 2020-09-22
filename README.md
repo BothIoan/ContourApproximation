@@ -1,6 +1,6 @@
 # ContourApproximation
 
-Some pretty standard contour approximation algorythim in C++ & openCV . Works with black & white images. 
+Some pretty standard contour approximation algorythim in C++ & OpenCV . Works with black & white images. 
 
 ## My additions to the standard formula
 I took it as an exercice for stuff I want to know better so :
